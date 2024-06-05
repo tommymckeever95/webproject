@@ -1,0 +1,75 @@
+/*
+  white: #FFFFFF
+  Orange: #f18542
+  2.4 contrast complimentary Blue: #42AEF1
+  4.5 contrast complimentary Blue: #0F7ACB
+ accent 1 - 4.5 Contrast Orange: #CC4E13
+ accent 2 - 4.8 contrast San Marino Blue: #4773af
+4.5
+*/
+
+
+
+
+h1 {
+ color: #CC4E13;
+ text-align: center
+}
+
+
+th, td {
+
+  border-color:#4773af;
+  border-style: dotted;
+  border-width: 3px;
+  padding: 8px;
+
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+
+
+a {
+  color:#CC4E13;
+  font-weight: bold;
+  text-decoration: none;
+  
+}
+
+a:hover {
+  color:#4773af;
+  
+}
+
+p.model {
+  background-color:#CC4E13;
+  color: #FFFFFF;
+  width: 570px;
+  padding: 20px;
+  border: solid;
+  border-color:#4773af;
+  margin: 20px
+}
+
+div {
+  background-color:#CC4E13;
+  width: 646px;
+  padding: 20px;
+  border: dashed;
+  border-width: 10px;
+  border-color:#4773af;
+  margin: 30px;
+
+}
+
+body {
+  padding: 20px;
+  font-size: 20px;
+
+}
