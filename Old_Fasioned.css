@@ -1,0 +1,73 @@
+/*
+Accent - bright yellow gold  #ce9306
+Dark Yellow Gold #967110
+Royal Purple #4c1096
+H1 - Bold Cursive Underlines
+H2 Bold Cursive
+H2 Bold Cursive 
+H3 Cursive
+
+*/
+body{
+    background-color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, 
+    sans-serif;
+    color:#ce9306;
+    padding: 40px;
+
+
+}
+
+
+h1{
+ color: #967110;
+ text-align: center;
+ font-weight: bold;
+ font-style: italic;
+ text-decoration: underline;
+
+}
+
+h2{
+    color:#967110;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h3{
+    font-style: italic;
+}
+
+a{
+    color:#de1503;
+
+}
+
+a:hover{
+    color:#4c1096;
+
+}
+
+th, td{
+    border-color:#de1503;
+    border-top-style:double;
+    border-left-style:groove;
+    border-right-style:groove;
+    border-bottom-style:groove;
+    border-width: 5px;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+  }
+  
+
+p.picture{
+    text-align:center;
+
+  }
